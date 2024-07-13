@@ -6,25 +6,49 @@ This repository features a custom theme for [Oh My Posh](https://ohmyposh.dev/),
 
 ## Features
 
-- **Console Title**: Displays current shell and folder information. If in a Python virtual environment, it shows the Conda environment.
-- **Session Segment**: Shows the username and indicates if the session is an SSH session.
-- **OS Segment**: Displays the operating system icon.
-- **Project Segment**: Shows the project name and version.
-- **Shell Segment**: Displays the shell name.
-- **Root Segment**: Indicates if the user is root.
-- **CMake Segment**: Shows the CMake version.
-- **Python Segment**: Displays Python version and virtual environment.
-- **Go Segment**: Shows the Go version.
-- **Docker Segment**: Displays the Docker context.
-- **Rust Segment**: Shows the Rust version.
-- **Git Segment**: Displays Git status, including branch, changes, and stash count.
-- **Git Version Segment**: Shows the Git version.
-- **Bun Segment**: Displays Bun version.
-- **Status Segment**: Indicates the last command's exit status.
-- **System Info Segment**: Displays system memory usage.
-- **Execution Time Segment**: Shows the execution time of the last command.
-- **Path Segment**: Displays the current path with folder icons.
-- **Time Segment**: Shows the current date and time.
+This theme provides a comprehensive set of segments for various development environments and tools:
+
+- **User and System Info**: Displays username, OS, and shell information
+- **Development Environments**: 
+  - Node.js (with npm, yarn, and pnpm support)
+  - Python (with virtual environment detection)
+  - Java
+  - Kotlin
+  - Go
+  - Rust
+  - Ruby
+  - PHP
+  - .NET
+  - Swift
+  - Scala
+  - Clojure
+  - Elixir
+  - Erlang
+  - Lua
+  - Flutter
+- **Cloud Platforms**:
+  - AWS
+  - Azure
+  - Google Cloud Platform (GCP)
+- **DevOps Tools**:
+  - Docker
+  - Kubernetes
+  - Helm
+  - Terraform
+- **Version Control**:
+  - Git (with detailed status information)
+  - Git version
+- **Package Managers**:
+  - npm
+  - Bun
+- **Frameworks**:
+  - React
+- **Cloud Services**:
+  - Firebase
+- **Media Players**:
+  - Spotify
+  - YouTube Music
+
 
 ## Installation
 
