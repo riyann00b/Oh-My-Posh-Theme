@@ -1,4 +1,7 @@
 # Oh My Posh Custom Theme
+A feature-rich and visually appealing Oh My Posh theme designed for developers.
+
+![Theme Screenshot](https://github.com/riyann00b/Oh-My-Posh-Theme/blob/main/Screenshot%20from%202024-07-14%2005-00-11.png)
 
 ## Description
 
